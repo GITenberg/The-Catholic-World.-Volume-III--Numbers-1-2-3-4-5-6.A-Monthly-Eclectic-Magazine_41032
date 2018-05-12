@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41032#The-Catholic-World.-Volume-III--Numbers-1-2-3-4-5-6.A-Monthly-Eclectic-Magazine
 gutenberg_bookshelf: The Catholic World
 gutenberg_issued: '2012-10-12'
 gutenberg_type: Text
